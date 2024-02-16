@@ -35,3 +35,19 @@ const actor = {
 // console.log(actor.act);
 // actor.act();
 
+// const products = [
+//     {
+//         name: "Phone",
+//         price: 12000,
+//     },
+//     {
+//         name: "Laptop",
+//         price: 32000
+//     }
+// ]
+
+const products = {
+    "0": 15,
+    "1": 56,
+    "2": 87
+}
